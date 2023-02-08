@@ -35,7 +35,7 @@
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0",
-    "react-gesture-responder": "^2.1.0"
+    "react-gesture-responder": "^2.1.0 || giulianok/react-gesture-responder#react-17-18"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
